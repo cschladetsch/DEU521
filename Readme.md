@@ -2,6 +2,8 @@
 
 Found at https://www.pcorner.com/list/DOOM/DEU521.ZIP/INFO/
 
+This is the *first* ever Doom1 WAD editor every created and released. I (Christian Schladetsch) worked on it, providing the extended memory manager and texture renderer while studying at RMIT in 1993.
+
 
                =======================
                          DEU
@@ -597,6 +599,10 @@ say that these people did great things for DOOM or DEU:
 
 * Tobias Ringstr”m                (d2rinto@dtek.chalmers.se)
      Added the code to distribute floors and ceiling heights.
+
+* Christian Johannes Schladetsch  (s924706@yallara.rmit.edu.au)
+     Extended memory manager.
+     Performance texture renderer.
 
 * Robert Hodkinson                (R.J.Hodkinson@bradford.ac.uk)
      Texture alignment (X offset).

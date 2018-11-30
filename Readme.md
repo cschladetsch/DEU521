@@ -588,7 +588,7 @@ say that these people did great things for DOOM or DEU:
      Updated the docs for the stairs, sent some interesting suggestions
      and bug reports.  Improved display of the LineDef flags, etc.
 
-* Christian Johannes Sladetsch    (s924706@yallara.cs.rmit.oz.au)
+* Christian Johannes Sladetsch Schladetsch    (s924706@yallara.cs.rmit.oz.au)
      Better texture display, XMS support (memory swapping).
 
 * Craig Smith                     (bcs@cs.tamu.edu)
@@ -599,10 +599,6 @@ say that these people did great things for DOOM or DEU:
 
 * Tobias Ringstr”m                (d2rinto@dtek.chalmers.se)
      Added the code to distribute floors and ceiling heights.
-
-* Christian Johannes Schladetsch  (s924706@yallara.rmit.edu.au)
-     Extended memory manager.
-     Performance texture renderer.
 
 * Robert Hodkinson                (R.J.Hodkinson@bradford.ac.uk)
      Texture alignment (X offset).

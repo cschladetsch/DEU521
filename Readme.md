@@ -1,4 +1,4 @@
-# Providence
+# Provenance
 
 Found at https://www.pcorner.com/list/DOOM/DEU521.ZIP/INFO/
 
@@ -99,7 +99,7 @@ Copyright
 ~~~~~~~~~
 DOOM is a trademark of id Software.
 
-DEU has been created by Brendon Wyber and Raphaâl Quinet
+DEU has been created by Brendon Wyber and Rapha‚Ä∞l Quinet
 DEU is NOT an id Software product.
 
 Disclaimers
@@ -135,7 +135,7 @@ things:
      * ... and... Give us credit. E.g.
        Bob's Amazing Doom Editor, Version 1.00.
        Copyright 1994 Bob Bobbingbob. All rights reserved.
-       [Derived from DEU v5.20 by Brendon Wyber and Raphaâl Quinet.]
+       [Derived from DEU v5.20 by Brendon Wyber and Rapha‚Ä∞l Quinet.]
        This credit notice should appear when you start the program, or in
        an "about" box (if your program has a graphical interface).
 
@@ -216,7 +216,7 @@ Then press F1 for help, or just play around.
 REVISION HISTORY
 ================
 
-By Raphaâl Quinet:
+By Rapha‚Ä∞l Quinet:
 
 5.21   21 May 94
        Bugfix release.  The previous version was compiled without
@@ -390,9 +390,9 @@ Butthead:       "I may be cool Beavis, but I can't change the future."
 CONTACTING THE AUTHORS
 ======================
 
-* Raphaâl (DEU code)
+* Rapha‚Ä∞l (DEU code)
   E-mail: quinet@montefiore.ulg.ac.be
-  Snail mail: Raphaâl Quinet
+  Snail mail: Rapha‚Ä∞l Quinet
               9 rue des Martyrs
               B-4550 Nandrin
               Belgium
@@ -432,7 +432,7 @@ information will be given in the "Credits..." section of this file.
 
 Updates to the Program
 ~~~~~~~~~~~~~~~~~~~~~~
-Contact Brendon and Raphaâl before submitting code.
+Contact Brendon and Rapha‚Ä∞l before submitting code.
 
 If you write an extension to DEU, try keeping all of it in a separate 
 file.  This will facilitate the integration in the version under 
@@ -446,7 +446,7 @@ possible.
 
 Updates to the Manual
 ~~~~~~~~~~~~~~~~~~~~~
-Send Updates for manual to Steve Bareman or Brendon and Raphaâl.
+Send Updates for manual to Steve Bareman or Brendon and Rapha‚Ä∞l.
 
 We are trying to do our best to improve the documentation, but describing 
 all the features of such a powerful program is not an easy task.  If you 
@@ -462,7 +462,7 @@ The subject header of your message should include "DEU DOC's".
 
 Bug Reports
 ~~~~~~~~~~~
-Send bug reports to Brendon and Raphaâl.
+Send bug reports to Brendon and Rapha‚Ä∞l.
 
 Read the docs thoroughly before reporting any bugs.  Some of them are 
 features, not bugs...
@@ -475,7 +475,7 @@ The subject header of your message should include "DEU BUG REPORT".
 
 Suggestions for Enhancements to DEU program
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Send your suggestions to Brendon and Raphaâl.
+Send your suggestions to Brendon and Rapha‚Ä∞l.
 
 Thanks for your support!
 
@@ -498,8 +498,8 @@ say that these people did great things for DOOM or DEU:
      Map display, Things editor.
      Now working on DEU 6.0, which will have lots of improvements.
 
-* Raphaâl Quinet                  (quinet@montefiore.ulg.ac.be)
-     Much of this program was written by Raphaâl Quinet.
+* Rapha‚Ä∞l Quinet                  (quinet@montefiore.ulg.ac.be)
+     Much of this program was written by Rapha‚Ä∞l Quinet.
      New interface (mouse, menus, etc).
      Ability to edit Vertices, Linedefs, Sidedefs, Sectors, and last
      but certainly not least an AUTOMATIC NODES BUILDER.
@@ -595,7 +595,7 @@ say that these people did great things for DOOM or DEU:
 * Tim Dedischew                   (kfdedisc@vela.acs.oakland.edu)
      Working on a realistic 3D previewer for DEU.
 
-* Tobias Ringstrîm                (d2rinto@dtek.chalmers.se)
+* Tobias Ringstr‚Äùm                (d2rinto@dtek.chalmers.se)
      Added the code to distribute floors and ceiling heights.
 
 * Robert Hodkinson                (R.J.Hodkinson@bradford.ac.uk)
